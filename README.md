@@ -31,14 +31,12 @@
 ### 📫 Let's Connect!
 
 <div align="center"> 
-  <a href="mailto:canselyilmazcanturk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a> 
-  <a href="https://linkedin.com/in/canselyilmazcanturk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a> 
-  <a href="https://github.com/Cansel-07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  <a href="mailto:canselyilmazcanturk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/canselyilmazcanturk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div> 
 
@@ -59,11 +57,13 @@
 
 <div align="center"> 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Cansel-07&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" /> 
-  <br> 
-  
-  <div align="center"> 
-    <img src="https://raw.githubusercontent.com/Cansel-07/Cansel-07/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> 
-  </div>
+</div>
+
+<br>
+
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/Cansel-07/Cansel-07/output/github-contribution-grid-snake.svg" alt="snake animation" /> 
+</div>
 
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/> 
