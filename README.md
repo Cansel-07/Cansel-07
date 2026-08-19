@@ -16,7 +16,10 @@
 
 * 🎓 **Ph.D. Candidate** at Akdeniz University, researching the intersection of Artificial Intelligence, society, and coding education.
 * 💻 **Full-Stack Developer** experienced in building responsive, user-friendly applications and robust backend systems.
-* 🤖 Certified in Anthropic AI (Model Context Protocol, Subagents) and deeply passionate about **AI / ML** development.
+* 🏆 **Certifications:** Constantly learning and expanding my skill set in Cloud and AI:
+  * **AWS:** Foundations of Prompt Engineering & Cloud Practitioner Essentials
+  * **Microsoft Learn:** Introduction to generative AI and agents & Explore Azure Blob storage
+  * **Anthropic AI:** Model Context Protocol, AI Capabilities & Subagents
 * 🌱 Currently building projects with **React, Next.js, Laravel, TypeScript, and various databases**.
 
 <br>
