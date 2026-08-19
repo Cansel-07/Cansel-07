@@ -62,7 +62,7 @@
 <br>
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/Cansel-07/Cansel-07/output/github-contribution-grid-snake.svg" alt="snake animation" /> 
+  <img src="https://raw.githubusercontent.com/Cansel-07/Cansel-07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" /> 
 </div>
 
 <div align="center"> 
